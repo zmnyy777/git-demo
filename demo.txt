@@ -1,4 +1,8 @@
 hello zm
+<<<<<<< HEAD
 master hot-fix
 
 update
+modify
+hot-fix
+hot-fix
